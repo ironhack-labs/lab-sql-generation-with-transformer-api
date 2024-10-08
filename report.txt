@@ -1,0 +1,7 @@
+The task is to generate an SQL `INSERT` statement based on the provided instructions.
+It works perfectly with any input asking to add a person/employee etc. 
+It also handles different types of requests, also more vague ones like "what data do we store on employees".
+It handles well ambiguity
+It handles well partially missing data
+It doesn't provide correct output when all data is missing.
+It handles well diferent data types.
